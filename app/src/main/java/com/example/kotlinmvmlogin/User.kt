@@ -1,4 +1,4 @@
-package com.example.loginuserkotlin
+package com.example.kotlinmvmlogin
 
 data class User(
     val firstName : String = "",

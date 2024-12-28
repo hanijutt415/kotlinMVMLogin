@@ -1,11 +1,12 @@
-package com.example.loginuserkotlin
+package com.example.kotlinmvmlogin 
 
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
-import com.example.loginuserkotlin.databinding.ActivityMainBinding
+import com.example.kotlinmvmlogin.databinding.ActivityMainBinding
+
 
 class MainActivity : AppCompatActivity() {
 

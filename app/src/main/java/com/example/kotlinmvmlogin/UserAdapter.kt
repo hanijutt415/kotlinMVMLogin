@@ -1,4 +1,4 @@
-package com.example.loginuserkotlin
+package com.example.kotlinmvmlogin
 
 import android.view.LayoutInflater
 import android.view.View

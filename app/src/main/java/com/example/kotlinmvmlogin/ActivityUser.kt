@@ -1,4 +1,4 @@
-package com.example.loginuserkotlin
+package com.example.kotlinmvmlogin
 
 import android.os.Bundle
 import android.widget.Toast
